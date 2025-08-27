@@ -1,6 +1,6 @@
 # 👋 Merhaba / Hello, ben Alperhan
 
-Ben bir **Yazılım Geliştirici & Web Tasarımcı**yım.  
+Ben **Yazılım Geliştirici & Web Tasarımcı**yım.  
 Web ve yazılım projeleri geliştiriyorum, modern ve kullanıcı odaklı çözümler sunuyorum.  
 Tasarım ve kodlama arasında denge kurarak estetik ve işlevselliği birleştiriyorum.
 
@@ -12,12 +12,16 @@ I focus on balancing design and code to create both visually appealing and funct
 
 ## 🌟 Hakkımda / About Me
 
+**Turkish**
+
 - Kullanıcı deneyimi (UX) ve kullanıcı arayüzü (UI) tasarımına ilgi duyuyorum  
 - Web ve masaüstü uygulamaları geliştirme konusunda öğrenmeye ve deneyim kazanmaya odaklıyım  
 - Problem çözmeyi seviyor ve projelere yaratıcı yaklaşımlarla katkı sağlamaya çalışıyorum  
 - Takım çalışmasına yatkınım, yeni teknolojileri öğrenmeye istekliyim  
-- Projelerde detaylara önem veririm ve sürekli kendimi geliştirmeye çalışırım  
-
+- Projelerde detaylara önem veririm ve sürekli kendimi geliştirmeye çalışırım
+- 
+**English**
+  
 - Interested in user experience (UX) and user interface (UI) design  
 - Focused on learning and gaining experience in web and desktop application development  
 - Enjoy problem-solving and contributing to projects with creative solutions  
