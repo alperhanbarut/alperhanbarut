@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Merhaba / Hello, ben Alperhan
 
-<!--
-**alperhanbarut/alperhanbarut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben bir **Yazılım Geliştirici & Web Tasarımcı**yım.  
+Web ve yazılım projeleri geliştiriyorum, kullanıcı dostu ve modern çözümler sunuyorum.  
 
-Here are some ideas to get you started:
+I am a **Software Developer & Web Designer**.  
+I create web and software projects, delivering user-friendly and modern solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Teknolojiler / Technologies
+
+- **Backend / Sunucu:** C#, .NET, PHP  
+- **Frontend / Arayüz:** HTML, CSS, JavaScript, React  
+- **Veritabanı / Database:** SQL, MySQL, PostgreSQL  
+- **Araçlar / Tools:** Git, GitHub, Visual Studio, VS Code  
+
+---
+
+## 📫 İletişim / Contact
+
+- E-mail: [alperhan.barut35@gmail.com](mailto:alperhan.barut35@gmail.com)  
+- LinkedIn: [linkedin.com/in/alperhanbarut](https://www.linkedin.com/in/alperhanbarut)  
+- Portfolio / Website: [alperhanbarut.com](https://alperhanbarut.com)
+
+---
