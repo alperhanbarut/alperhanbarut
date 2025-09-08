@@ -35,7 +35,7 @@ I focus on balancing design and code to create both visually appealing and funct
 C#, .NET, PHP
 
 **Frontend / Arayüz:**  
-HTML5, CSS3, JavaScript, React, Bootstrap, Tailwind
+HTML5, CSS3, JavaScript, Bootstrap, 
 
 **Veritabanı / Database:**  
 SQL Server, MySQL
