@@ -32,16 +32,16 @@ I focus on balancing design and code to create both visually appealing and funct
 ## 🛠️ Teknolojiler / Technologies
 
 **Backend / Sunucu:**  
-C#, .NET, PHP
+C#, .NET, PHP,
 
 **Frontend / Arayüz:**  
 HTML5, CSS3, JavaScript, Bootstrap, 
 
 **Veritabanı / Database:**  
-SQL Server, MySQL
+SQL Server, MySQL,
 
 **Araçlar / Tools:**  
-Git, GitHub, Visual Studio, VS Code
+Git, GitHub, Visual Studio, VS Code,
 
 ---
 
