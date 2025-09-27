@@ -1,55 +1,60 @@
-# 👋 Merhaba / Hello, ben Alperhan
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&color=6366f1&width=700&height=70&lines=Hi+there!+I'm+Alperhan+|+Frontend+Developer)
 
-Ben **Yazılım Geliştirici & Web Tasarımcı**yım.  
-Web ve yazılım projeleri geliştiriyorum, modern ve kullanıcı odaklı çözümler sunuyorum.  
-Tasarım ve kodlama arasında denge kurarak estetik ve işlevselliği birleştiriyorum.
-
-I am a **Software Developer & Web Designer**.  
-I develop web and software projects, delivering modern, user-centric solutions.  
-I focus on balancing design and code to create both visually appealing and functional projects.
+Bir **Frontend Developer** olarak web uygulamaları geliştiriyor ve kullanıcı odaklı çözümler sunuyorum.  
+I develop **user-centric web applications** as a Frontend Developer, delivering modern and functional solutions.
 
 ---
 
 ## 🌟 Hakkımda / About Me
 
-**Turkish**
+**Turkish** 🇹🇷
+- Kullanıcı deneyimi (UX) ve kullanıcı arayüzü (UI) tasarımına odaklanıyorum
+- React ekosistemi ve modern frontend araçlarıyla web uygulamaları geliştiriyorum
+- Problem çözmeyi seviyor ve temiz, ölçeklenebilir kod yazmaya önem veriyorum
+- Takım çalışmasına yatkınım ve sürekli yeni teknolojiler öğrenmeye açığım
 
-- Kullanıcı deneyimi (UX) ve kullanıcı arayüzü (UI) tasarımına ilgi duyuyorum  
-- Web ve masaüstü uygulamaları geliştirme konusunda öğrenmeye ve deneyim kazanmaya odaklıyım  
-- Problem çözmeyi seviyor ve projelere yaratıcı yaklaşımlarla katkı sağlamaya çalışıyorum  
-- Takım çalışmasına yatkınım, yeni teknolojileri öğrenmeye istekliyim  
-- Projelerde detaylara önem veririm ve sürekli kendimi geliştirmeye çalışırım
-- 
-**English**
-  
-- Interested in user experience (UX) and user interface (UI) design  
-- Focused on learning and gaining experience in web and desktop application development  
-- Enjoy problem-solving and contributing to projects with creative solutions  
-- Team player and eager to learn new technologies  
-- Detail-oriented and constantly striving to improve skills
+**English** 🇬🇧
+- Focused on User Experience (UX) and User Interface (UI) design
+- Building web applications with React ecosystem and modern frontend tools
+- Passionate about problem-solving and writing clean, scalable code
+- Team player and always eager to learn new technologies
 
 ---
+
 ## 🛠️ Teknolojiler / Technologies
 
-**Backend / Sunucu:**  
-C#, .NET, PHP,
+### 🚀 Frontend / Arayüz
+![React](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,mui,vite)
 
-**Frontend / Arayüz:**  
-HTML5, CSS3, JavaScript, Bootstrap, 
+### ⚙️ Backend & Database / Sunucu & Veri Tabanı
+![Backend](https://skillicons.dev/icons?i=dotnet,cs,php,mysql,json)
 
-**Veritabanı / Database:**  
-SQL Server, MySQL,
+### 🛠️ Araçlar / Tools
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman,gsap)
 
-**Araçlar / Tools:**  
-Git, GitHub, Visual Studio, VS Code,
+---
+
+## 📂 Öne Çıkan Projeler / Featured Projects
+
+<p align="left">
+  <a href="https://testifystore.netlify.app/">
+    <img src="https://iili.io/K1oiDFe.md.png" alt="TestifyStore Preview" width="500"/>
+  </a>
+</p>
+
+[![TestifyStore](https://img.shields.io/badge/Visit-TestifyStore-blue?style=for-the-badge&logo=appveyor)](https://testifystore.netlify.app/)
+
+---
+
+## 📊 GitHub İstatistikleri / GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alperhanbarut&show_icons=true&theme=radical&count_private=true&hide_title=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alperhanbarut&layout=compact&theme=radical)
 
 ---
 
 ## 📫 İletişim / Contact
 
-- E-mail: [alperhan.barut35@gmail.com](mailto:alperhan.barut35@gmail.com)  
-- LinkedIn: [linkedin.com/in/alperhanbarut](https://www.linkedin.com/in/alperhanbarut)  
-- GitHub: [github.com/alperhanbarut](https://github.com/alperhanbarut)
-
----
-
+[![Email](https://img.shields.io/badge/Email-alperhan.barut35@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:alperhan.barut35@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@alperhanbarut-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alperhanbarut)  
+[![GitHub](https://img.shields.io/badge/GitHub-alperhanbarut-black?style=for-the-badge&logo=github)](https://github.com/alperhanbarut)
