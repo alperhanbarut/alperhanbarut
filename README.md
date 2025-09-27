@@ -36,13 +36,27 @@ I develop **user-centric web applications** as a Frontend Developer, delivering 
 
 ## 📂 Öne Çıkan Projeler / Featured Projects
 
-<p align="left">
+<p align="center">
   <a href="https://testifystore.netlify.app/">
     <img src="https://iili.io/K1oiDFe.md.png" alt="TestifyStore Preview" width="500"/>
   </a>
 </p>
+<p align="center">
+  <a href="https://testifystore.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-TestifyStore-blue?style=for-the-badge&logo=appveyor" alt="TestifyStore Badge"/>
+  </a>
+</p>
 
-[![TestifyStore](https://img.shields.io/badge/Visit-TestifyStore-blue?style=for-the-badge&logo=appveyor)](https://testifystore.netlify.app/)
+<p align="center">
+  <a href="https://github.com/alperhanbarut/movie-app">
+    <img src="https://iili.io/K1x94Qs.png" alt="Movie App Preview" width="500"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/alperhanbarut/movie-app">
+    <img src="https://img.shields.io/badge/View-MovieApp-red?style=for-the-badge&logo=github" alt="Movie App Badge"/>
+  </a>
+</p>
 
 ---
 
