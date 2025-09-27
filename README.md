@@ -48,15 +48,16 @@ I develop **user-centric web applications** as a Frontend Developer, delivering 
 </p>
 
 <p align="center">
-  <a href="https://github.com/alperhanbarut/movie-app">
+  <a href="https://alperhan-movie-app.netlify.app/">
     <img src="https://iili.io/K1x94Qs.png" alt="Movie App Preview" width="500"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/alperhanbarut/movie-app">
-    <img src="https://img.shields.io/badge/View-MovieApp-red?style=for-the-badge&logo=github" alt="Movie App Badge"/>
+  <a href="https://alperhan-movie-app.netlify.app/">
+    <img src="https://img.shields.io/badge/Visit-MovieApp-green?style=for-the-badge&logo=netlify" alt="Movie App Live Badge"/>
   </a>
 </p>
+
 
 ---
 
