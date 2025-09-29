@@ -60,16 +60,15 @@ I develop **user-centric web applications** as a Frontend Developer, delivering 
 
 <p align="center">
   <a href="https://alperhanbarut.github.io/SkyCast-weatherapp/home/">
-    <img src="https://freeimage.host/i/KEytamF" alt="Weather App Preview" width="500"/>
+    <img src="https://i.ibb.co/1fP03dBc/Ads-z.png" alt="Weather App Preview" width="500"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://alperhanbarut.github.io/SkyCast-weatherapp/home/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen" alt="Weather App Live Badge"/>
+    <img src="https://img.shields.io/badge/Visit-WeatherApp-brightgreen?style=for-the-badge&logo=netlify" alt="Weather App Badge"/>
   </a>
 </p>
-
 
 
 ---
