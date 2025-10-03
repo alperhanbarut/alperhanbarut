@@ -72,7 +72,7 @@ I develop **user-centric web applications** as a Frontend Developer, delivering 
 
 <p align="center">
   <a href="https://alperhanbarut.github.io/Roaste/">
-    <img src="https://i.ibb.co/dJL64ztm" alt="Roaste Preview" width="500"/>
+    <img src="https://i.imgur.com/5vvu4Vb.png" alt="Roaste Preview" width="500"/>
   </a>
 </p>
 <p align="center">
